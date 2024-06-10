@@ -1,4 +1,5 @@
 # GitHub for Developers
+# I am making changes to my working directory
 
 - Class Date: 
 - Facilitator: @jasontiedt
