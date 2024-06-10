@@ -1,5 +1,5 @@
 # GitHub for Developers
-# I am making changes to my working directory
+# I am making changes to my staged directory
 
 - Class Date: 
 - Facilitator: @jasontiedt
