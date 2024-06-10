@@ -1,5 +1,7 @@
 # GitHub for Developers
-# I am making changes to my staged directory
+
+# Test change that I'm adding
+
 
 - Class Date: 
 - Facilitator: @jasontiedt
